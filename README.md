@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello world 👋
 
-<!--
-**yvesfracari/yvesfracari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pedro. I build DeFi and Web3 products at [Bleu](https://bleu.builders).
 
-Here are some ideas to get you started:
+Most days, I build protocol integrations, SDKs, backend services, and products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently around
+
+- DeFi integrations and product engineering
+- Smart-contract development
+- TypeScript, Solidity, Python, and whichever tool gets the job shipped
+
+Lately, I have worked with CoW Protocol, Morpho, Silo, Balancer, 1inch, and Optimism.
+
+[LinkedIn](https://www.linkedin.com/in/pyvesfracari/) · [X](https://x.com/yvesfracaribleu)
