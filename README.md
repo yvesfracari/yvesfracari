@@ -2,13 +2,7 @@
 
 I'm Pedro. I build DeFi and Web3 products at [Bleu](https://bleu.builders).
 
-Most days, I build protocol integrations, SDKs, backend services, and products.
-
-### Currently around
-
-- DeFi integrations and product engineering
-- Smart-contract development
-- TypeScript, Solidity, Python, and whichever tool gets the job shipped
+Most days, I build protocol integrations, SDKs, backend services, smart contracts, and UIs.
 
 Lately, I have worked with CoW Protocol, Morpho, Silo, Balancer, 1inch, and Optimism.
 
